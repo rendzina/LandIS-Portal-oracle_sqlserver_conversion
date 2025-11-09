@@ -1,4 +1,4 @@
-# Oracle to SQL Server Database Conversion
+# LandIS Portal - Oracle to SQL Server Database Conversion
 
 This project provides a comprehensive solution for converting Oracle database exports to SQL Server format. The conversion tool handles complex data type mappings, syntax differences, and data integrity issues automatically.
 
