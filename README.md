@@ -1,5 +1,7 @@
 # LandIS Portal - Oracle to SQL Server Database Conversion
 
+Author: Stephen Hallett, Cranfield University Date: 29-09-2025
+
 This project provides a comprehensive solution for converting Oracle database exports to SQL Server format. The conversion tool handles complex data type mappings, syntax differences, and data integrity issues automatically.
 
 The code has been provided as part of the open source output for the Landis Portal database conversion project.
